@@ -14,3 +14,7 @@ $ ./vendor/bin/sail up -d
 [http://localhost:6700](http://localhost:6700)にアクセスしてください。
 
 
+## phpmyadmin
+
+
+
