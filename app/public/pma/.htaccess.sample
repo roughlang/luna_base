@@ -1,0 +1,5 @@
+# AccessControl IP/HOST
+# order deny,allow
+# deny from all
+# allow from 127.0.0.1 # localhost
+# allow from 192.168.11.10 # dummy

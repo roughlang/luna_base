@@ -1,12 +1,12 @@
 # AccessControl IP/HOST
-order deny,allow
-deny from all
-allow from 127.0.0.1 # localhost
-allow from 192.168.11.10 # dummy
-allow from 172.26.0.1 # apw
-allow from 152.165.123.38 # apw (office main)
-allow from 223.132.173.18 # apw (Guest)
-allow from 163.44.185.176 # Lolipop
-allow from 126.235.23.188 # house
-allow from 60.126.10.215 # ten-chan
-allow from 219.111.2.223 # apw (Guest)
+# order deny,allow
+# deny from all
+# allow from 127.0.0.1 # localhost
+# allow from 192.168.11.10 # dummy
+# allow from 172.26.0.1 # apw
+# allow from 152.165.123.38 # apw (office main)
+# allow from 223.132.173.18 # apw (Guest)
+# allow from 163.44.185.176 # Lolipop
+# allow from 126.235.23.188 # house
+# allow from 60.126.10.215 # ten-chan
+# allow from 219.111.2.223 # apw (Guest)
