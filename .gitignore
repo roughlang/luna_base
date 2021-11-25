@@ -8,7 +8,7 @@ app/node_modules
 app/public/hot
 app/public/storage
 app/storage/*.key
-app/vendor
+#app/vendor
 app/.env
 app/.env.backup
 app/.phpunit.result.cache

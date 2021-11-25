@@ -10,11 +10,33 @@ Laravel8にwordpressとvue.jsを組み込んだ基本構造のリポジトリに
 $ app
 $ ./vendor/bin/sail up -d
 ```
-以降は`docker-compose up -d`でも同様に起動できます。
+最初はport:80で起動してしまうので、`docker-compose`でもう一度起動させてください。
+
+```
+$ docker-compose down
+$ docker-compose up -d
+```
+
 [http://localhost:6700](http://localhost:6700)にアクセスしてください。
+
+以降は`docker-compose up -d`で起動してください。
 
 
 ## phpmyadmin
 
 
+
+
+
+
+
+
+
+
+
+
+
+---------
+
+- ./vendorもコミットしておいた方がいいらしい。
 
